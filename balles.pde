@@ -1,3 +1,12 @@
+/*************
+
+Adrien Bocquet - 2014
+
+Calculs de collision issus de Wikipédia
+http://fr.wikipedia.org/wiki/Choc_élastique
+
+*************/
+
 Balle[] balles ;
 
 void setup()
